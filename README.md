@@ -37,9 +37,17 @@ A comprehensive reading companion featuring book tracking, progress monitoring, 
 
 ---
 
-## 🤔 Why Reading List Manager?
+## 📋 What is Reading List Manager?
+
+Reading List Manager transforms how you engage with books. Instead of scattered notes across apps, you get a unified system that understands your reading patterns, recommends your next great read, and keeps you accountable to your yearly goals — all while your data stays 100% private on your machine.
+
+---
+
+## 🤔 Why Local AI for Reading?
 
 | Problem | Solution |
+|---------|----------|
+| **Problem** | **Solution** |
 |---------|----------|
 | Lost track of books | Full library with status, progress, and ratings |
 | Don't know what to read next | AI recommendations based on your taste |
